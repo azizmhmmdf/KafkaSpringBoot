@@ -2,7 +2,6 @@ package com.example.kafkawithspringboot.controllers;
 
 import com.example.kafkawithspringboot.services.KafkaProducer;
 import org.springframework.http.ResponseEntity;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
