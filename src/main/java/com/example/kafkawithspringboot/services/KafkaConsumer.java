@@ -1,4 +1,4 @@
-package com.example.kafkawithspringboot.controllers;
+package com.example.kafkawithspringboot.services;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
